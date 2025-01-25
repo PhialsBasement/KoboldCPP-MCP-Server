@@ -11,6 +11,8 @@ A Model Context Protocol (MCP) server implementation for interfacing with Kobold
 - Built on the official MCP SDK
 - TypeScript implementation
 
+<a href="https://glama.ai/mcp/servers/a2xd4hoij7"><img width="380" height="200" src="https://glama.ai/mcp/servers/a2xd4hoij7/badge" alt="Kobold Server MCP server" /></a>
+
 ## Installation
 
 ```bash
