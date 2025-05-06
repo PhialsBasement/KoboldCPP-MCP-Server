@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/phialsbasement-koboldcpp-mcp-server-badge.png)](https://mseep.ai/app/phialsbasement-koboldcpp-mcp-server)
+
 # Kobold MCP Server
 
 A Model Context Protocol (MCP) server implementation for interfacing with KoboldAI. This server enables integration between KoboldAI's text generation capabilities and MCP-compatible applications.
